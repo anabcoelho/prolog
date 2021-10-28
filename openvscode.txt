@@ -1,4 +1,4 @@
 Abrir o prolog no VS Code.
-(Para Ana não esquecer)
+(Para Ana não esquecer.)
 Rodar o comando swipl na pasta onde estão os arquivos
 Chamar os arquivos pelo nome, como [prog1] 
