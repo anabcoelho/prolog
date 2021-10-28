@@ -1,3 +1,5 @@
+
+
 par([]).
 par([_|T]):- impar(T).
 impar([_|T]):- par(T).
